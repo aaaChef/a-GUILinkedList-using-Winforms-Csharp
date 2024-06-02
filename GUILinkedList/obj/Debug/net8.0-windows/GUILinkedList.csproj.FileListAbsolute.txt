@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\bin\Debug\net8.0-windows\GUILinkedList.exe
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\bin\Debug\net8.0-windows\GUILinkedList.deps.json
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\bin\Debug\net8.0-windows\GUILinkedList.runtimeconfig.json
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\bin\Debug\net8.0-windows\GUILinkedList.dll
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\bin\Debug\net8.0-windows\GUILinkedList.pdb
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\obj\Debug\net8.0-windows\GUILinkedList.Form1.resources
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\obj\Debug\net8.0-windows\GUILinkedList.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\obj\Debug\net8.0-windows\GUILinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\obj\Debug\net8.0-windows\GUILinkedList.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\obj\Debug\net8.0-windows\GUILinkedList.AssemblyInfo.cs
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\obj\Debug\net8.0-windows\GUILinkedList.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\obj\Debug\net8.0-windows\GUILinkedList.dll
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\obj\Debug\net8.0-windows\refint\GUILinkedList.dll
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\obj\Debug\net8.0-windows\GUILinkedList.pdb
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\obj\Debug\net8.0-windows\GUILinkedList.genruntimeconfig.cache
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\obj\Debug\net8.0-windows\ref\GUILinkedList.dll

@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\bin\Debug\net8.0-windows\GUIL.exe
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\bin\Debug\net8.0-windows\GUIL.deps.json
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\bin\Debug\net8.0-windows\GUIL.runtimeconfig.json
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\bin\Debug\net8.0-windows\GUIL.dll
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\bin\Debug\net8.0-windows\GUIL.pdb
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\obj\Debug\net8.0-windows\GUIL.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\obj\Debug\net8.0-windows\GUIL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\obj\Debug\net8.0-windows\GUIL.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\obj\Debug\net8.0-windows\GUIL.AssemblyInfo.cs
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\obj\Debug\net8.0-windows\GUIL.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\obj\Debug\net8.0-windows\GUIL.dll
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\obj\Debug\net8.0-windows\refint\GUIL.dll
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\obj\Debug\net8.0-windows\GUIL.pdb
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\obj\Debug\net8.0-windows\GUIL.genruntimeconfig.cache
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\obj\Debug\net8.0-windows\ref\GUIL.dll
+C:\Users\hp\source\repos\GUILinkedList\GUILinkedList\obj\Debug\net8.0-windows\GUIL.Form1.resources
